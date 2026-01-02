@@ -1,0 +1,1 @@
+Ease all the entry creation screens by splitting them into stages for better user interactivity
